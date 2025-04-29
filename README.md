@@ -14,6 +14,7 @@ Many **talented** programmers do not have the money for expensive programming co
 ---
 
 If you wanna help me as i am the only person who is maintaining the site then please donate me for making the website better. thank you
+
 _Note: I don't have a donation method yet_
 
 ---
