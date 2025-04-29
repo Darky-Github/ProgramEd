@@ -18,7 +18,7 @@ If you wanna help me as i am the only person who is maintaining the site then pl
 _Note: I don't have a donation method yet_
 
 ---
-# Programming Languages
+## Programming Languages
 - Python (In Progress)
 - C
 - C++ (In Progress)
@@ -33,7 +33,7 @@ _Note: I don't have a donation method yet_
 _Note: I will be adding more programming languages soon_
 
 ---
-# Markup Languages
+## Markup Languages
 - HTML
 - XML (In Progress)
 - MarkDown
@@ -42,58 +42,58 @@ _Note: I will be adding more programming languages soon_
 _Note: I will be adding more markup languages soon_
 
 ---
-# Stylesheet Languages
+## Stylesheet Languages
 - CSS (In progress)
 
 _Note: More soon_
 
 ---
-# Scripting Languages
+## Scripting Languages
 - Lua (Also a programming language)
 
 _Note: More soon_
 
 ---
-# Query Languages
+## Query Languages
 - SQL(In progress)
 - XQuery (In progress)
 
 _Note: More soon_
 
 ---
-# Assembly Languages
+## Assembly Languages
 - x86 Assembly (Soon)
 
 _Note: More soon_
 
 ---
-# Modeling Languages 
+## Modeling Languages 
 - UML (Soon)
 
 _Note: More soon_
 
 ---
-# Domain Specific Languages 
+## Domain Specific Languages 
 - Verilog (Soon) (Hardware)
 - R (Soon) (Statistics)
 
 _Note: More DSLs soon_
 
 ---
-# Hardware Description Languages
+## Hardware Description Languages
 - Verilog (Soon)
 
 _Note: More HDLs soon_
 
 ---
-# Data Serialization Languages
+## Data Serialization Languages
 - JSON
 - XML (Soon)
 
 _Note: More soon_
 
 ---
-# Command Languages
+## Command Languages
 - Bash (Soon)
 - PowerShell (Soon)
 - CMD (Soon)
@@ -101,7 +101,7 @@ _Note: More soon_
 _Note: More soon_
 
 ---
-# Mathematical Languages
+## Mathematical Languages
 - MATLAB (Soon)
 
 _Note: More Soon_
@@ -111,5 +111,5 @@ _Note: More Soon_
 *__Note: More categories of languages will be added soon__*
 
 ---
-# A website by Darky-Github
+### A website by Darky-Github
 
