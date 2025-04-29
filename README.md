@@ -27,8 +27,8 @@ _Note: I don't have a donation method yet_
 - Java
 - JavaScript (In progress)
 - TypeScript (In progress)
-- Lua
-- PHP
+- Lua (In progress)
+- PHP (In progress)
 
 _Note: I will be adding more programming languages soon_
 
@@ -49,7 +49,7 @@ _Note: More soon_
 
 ---
 ## Scripting Languages
-- Lua (Also a programming language)
+- Lua (Soon)
 
 _Note: More soon_
 
